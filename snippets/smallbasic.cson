@@ -1,7 +1,7 @@
 '.source.smallbasic':
     'For loop':
         'prefix': 'for'
-        'body': """"
+        'body': """
             For ${1:index} = ${2:lower} To ${3:upper} Step ${4:stepsize}'
             \t$0
             Next
