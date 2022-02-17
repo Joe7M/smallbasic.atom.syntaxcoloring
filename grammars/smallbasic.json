@@ -154,7 +154,7 @@
                     "name": "punctuation.definition.parameters.smallbasic"
                 }
             },
-            "end": "(?<=\\})|(?=#)|(\n)",
+            "end": "(?<=\\})|(?=())|(\n)",
             "name": "meta.function.smallbasic"
 
         }
